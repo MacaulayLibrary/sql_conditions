@@ -1,5 +1,4 @@
 require 'spec_helper'
-
 require 'sql_conditions'
 
 describe SqlConditions do

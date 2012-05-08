@@ -1,6 +1,9 @@
+
 # SqlConditions
 
-TODO: Write a gem description
+Helper methods for creating array of conditions to pass to activerecord.
+
+[![Build Status](https://secure.travis-ci.org/MacaulayLibrary/sql_conditions.png)](http://travis-ci.org/MacaulayLibrary/sql_conditions)
 
 ## Installation
 
@@ -18,7 +21,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+
+
 
 ## Contributing
 
@@ -27,3 +31,5 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Added some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+
